@@ -5,4 +5,4 @@
 127.0.0.1 lh3.googleusercontent.com
 ||animevietsub.bio/*.gif
 .gif$domain=animevietsub.bio
-
+.gif^$image,domain=*
