@@ -1,4 +1,5 @@
-||lh3.googleusercontent.com
-||vin88.net
-DOMAIN-SUFFIX,debet.mn
-127.0.0.1	ad.gem.win
+127.0.0.1 lh3.googleusercontent.com
+127.0.0.1 vin88.net
+127.0.0.1 ad.gem.win
+127.0.0.1 debet.mn
+127.0.0.1 lh3.googleusercontent.com
