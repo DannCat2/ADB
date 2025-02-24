@@ -1,3 +1,4 @@
 ||lh3.googleusercontent.com
 ||vin88.net
 DOMAIN-SUFFIX,debet.mn
+127.0.0.1	ad.gem.win
