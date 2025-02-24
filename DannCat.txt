@@ -3,3 +3,6 @@
 127.0.0.1 ad.gem.win
 127.0.0.1 debet.mn
 127.0.0.1 lh3.googleusercontent.com
+||animevietsub.bio/*.gif
+.gif$domain=animevietsub.bio
+
